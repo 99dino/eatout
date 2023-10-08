@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Eat Out</string>
+    <string name="pizza">Pizza</string>
+    <string name="burger">Burger</string>
+    <string name="coffee">Coffee</string>
+    <string name="fries">Fries</string>
+    <string name="softdrink">Soft Drink</string>
+    <string name="buy">Buy</string>
+</resources>
