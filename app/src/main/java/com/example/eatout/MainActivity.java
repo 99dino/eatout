@@ -19,42 +19,14 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         pizza=(CheckBox) findViewById(R.id.pizza);
-//        pizza.setOnClickListener(new View.OnClickListener(){
-//            @Override
-//            public void onClick(View view) {
-//                pizza.setChecked(!pizza.isChecked());
-//            }
-//        });
 
         burger=(CheckBox) findViewById(R.id.burger);
-//        burger.setOnClickListener(new View.OnClickListener(){
-//            @Override
-//            public void onClick(View view) {
-//                burger.setChecked(!burger.isChecked());
-//            }
-//        });
+
         coffee=(CheckBox) findViewById(R.id.coffee);
-//        coffee.setOnClickListener(new View.OnClickListener(){
-//            @Override
-//            public void onClick(View view) {
-//                coffee.setChecked(!coffee.isChecked());
-//            }
-//        });
 
         fries=(CheckBox) findViewById(R.id.fries);
-//        fries.setOnClickListener(new View.OnClickListener(){
-//            @Override
-//            public void onClick(View view) {
-//                fries.setChecked(!fries.isChecked());
-//            }
-//        });
+
         softdrink=(CheckBox) findViewById(R.id.softdrink);
-//        softdrink.setOnClickListener(new View.OnClickListener(){
-//            @Override
-//            public void onClick(View view) {
-//                softdrink.setChecked(!softdrink.isChecked());
-//            }
-//        });
 
 //        pizza - 199/-
 //        Burger - 99/-
